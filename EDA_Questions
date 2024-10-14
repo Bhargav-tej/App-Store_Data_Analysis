@@ -1,0 +1,10 @@
+-- How many unique apps are there in the dataset?
+-- Are there any missing values in key fields such as track_name, user_rating, or prime_genre?
+-- How many apps belong to each genre?
+-- What is the distribution of user ratings in the dataset?
+-- What is the distribution of app prices in the dataset?
+-- Do paid apps have higher ratings than free apps?
+-- Do apps that support more languages have higher ratings?
+-- Which genres have the lowest user ratings?
+-- Is there a correlation between the length of an app’s description and its user rating?
+-- What are the top-rated apps for each genre?
